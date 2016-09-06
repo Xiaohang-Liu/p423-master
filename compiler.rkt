@@ -17,6 +17,11 @@
         )))
 
 ;;(define (flatten 
+;;select instructions
+;;assign homes
+;;patch instructions
+;;print x86 
+
 
 
 
